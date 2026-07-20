@@ -8,6 +8,7 @@ hour = time.localtime().tm_hour
 if 5 <= hour < 8 :
     print("Good Morning")
 
+
 elif 13 <= hour < 15 :
     print("Good Afternoon")
 
